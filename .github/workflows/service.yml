@@ -1,4 +1,4 @@
-name: Timetracker Service
+name: Native Demo
 
 on:
   push:
